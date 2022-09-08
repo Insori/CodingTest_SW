@@ -27,5 +27,8 @@
     <ClCompile Include="uniform.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="NotCompletePlayer.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
