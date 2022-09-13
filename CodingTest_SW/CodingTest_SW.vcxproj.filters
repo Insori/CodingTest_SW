@@ -36,5 +36,11 @@
     <ClCompile Include="SumBetween.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="LCM.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="alarm.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
