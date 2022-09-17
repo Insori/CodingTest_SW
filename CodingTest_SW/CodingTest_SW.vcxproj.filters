@@ -42,5 +42,11 @@
     <ClCompile Include="alarm.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="WeirdCharacters.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="InsufficientAmount.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
