@@ -2,6 +2,7 @@
 #include <stdbool.h>
 #include <stdlib.h>
 #include <string.h>
+#include <ctype.h>
 
 char* solution(const char* s) {
     char* answer = (char*)malloc(strlen(s) + 1);
